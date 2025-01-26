@@ -4,9 +4,7 @@ Repository for Code used for various freeCodeCamp courses.
 
 # 1. Data Analysis with Python
 
-
-View [Certificate](Certificates/Data_Analysis_with_Python.pdf):
-![Data_Analysis_with_Python_Cert](Certificates/Data_Analysis_with_Python.pdf)
+View Certificate [here](Certificates/Data_Analysis_with_Python.pdf).
 
 <details>
 <summary><h2>a. Projects</h2></summary>
