@@ -6,8 +6,7 @@ Repository for Code used for various freeCodeCamp courses.
 
 View Certificate [here](Certificates/Data_Analysis_with_Python.pdf).
 
-<details>
-<summary><h2>a. Projects</h2></summary>
+a. Projects
 
 ### i. Mean-Variance-Standard Deviation Calculator
 Use Numpy to calculate the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements of given input datasets.
@@ -56,7 +55,6 @@ Analyze a dataset of the global average sea level change since 1880 and  use the
 - Get the slope and y-intercept of the line of best fit. Plot the line of best fit over the top of the scatter plot and predict the sea level rise in 2050.
 - Plot a new line of best fit just using the data from year 2000 through the most recent year in the dataset to predict the sea level rise in 2050 if the rate of rise continues as it has since the year 2000.
 
-</details>
 
 ## b. Skills and Tools
 
