@@ -6,7 +6,7 @@ Repository for Code used for various freeCodeCamp courses.
 
 View Certificate [here](Certificates/Data_Analysis_with_Python.pdf).
 
-a. Projects
+## a. Projects
 
 ### i. Mean-Variance-Standard Deviation Calculator
 Use Numpy to calculate the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements of given input datasets.
